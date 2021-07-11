@@ -1,0 +1,6 @@
+module Pods_blindApp {
+  umbrella header "Pods-blindApp-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,6 @@
+module Pods_blindApp_blindAppTests {
+  umbrella header "Pods-blindApp-blindAppTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
